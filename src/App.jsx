@@ -2,7 +2,7 @@ import { Header } from './components/Header'
 import { AppOverview } from './components/AppOverview'
 import { Content } from './components/Content'
 import { Footer } from './components/Footer'
-import './App.css'
+import './index.css'
 
 /**
  * Componente App
