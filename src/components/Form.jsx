@@ -95,6 +95,7 @@ export const Form = ({ onResults }) => {
                         />
                     </div>
                     <div className="pb-6">
+                        <label htmlFor="goals" className="sr-only">Choose yo goals</label>
                         <select
                             id="goals"
                             value={goal}
