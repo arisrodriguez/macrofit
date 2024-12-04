@@ -62,7 +62,7 @@ export const Form = ({ onResults }) => {
     };
 
     return (
-        <div className="text-base text-center px-14 mx-auto md:flex-1">
+        <section className="text-base text-center px-14 mx-auto md:flex-1">
             <div className="md:w-full">
                 <h1 className="font-bold text-xl text-gray-700 dark:text-white">Macros Calculator</h1>
 
@@ -116,7 +116,7 @@ export const Form = ({ onResults }) => {
                 <hr className="mt-8 md:sr-only" />
 
             </div>
-        </div>
+        </section>
 
     )
 }

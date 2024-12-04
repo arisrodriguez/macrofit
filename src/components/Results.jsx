@@ -20,7 +20,7 @@
 
 export const Results = ({ results }) => {
     return (
-        <div className="pt-8 px-14 mx-auto text-base text-center md:flex-1 md:py-0" id="show-result">
+        <section className="pt-8 px-14 mx-auto text-base text-center md:flex-1 md:py-0" id="show-result">
             <div className="md:w-full">
                 <div className="md:items-center md:justify-center">
                     <div>
@@ -41,7 +41,7 @@ export const Results = ({ results }) => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

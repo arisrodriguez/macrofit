@@ -33,10 +33,10 @@ export const Content = () => {
     }, [results]);*/
 
     return (
-        <div className="mx-auto md:flex pt-3">
+        <main className="mx-auto md:flex pt-3">
             <Form onResults={setResults} /> {/* Componente Form, pasando `setResults` como la función `onResults` */}
             <Results results={results} /> {/* Componente Results, pasando `results` para mostrar los resultados */}
-        </div>
+        </main>
     )
 }
 
