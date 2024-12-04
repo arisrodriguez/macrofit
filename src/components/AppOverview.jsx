@@ -12,10 +12,10 @@ import React from 'react'
 
 export const AppOverview = () => {
     return (
-        <div className='py-5 px-14 md:px-0 md:w-[90%] mx-auto'>
+        <section className='py-5 px-14 md:px-0 md:w-[90%] mx-auto'>
             <p className='font-light text-lg text-gray-500 dark:text-white'>
                 Optimize your nutrition with MacroFit, the ultimate app for calculating and adjusting your macronutrients. Customize your fitness goals, maintain a healthy lifestyle, and achieve your targets with our app's help. Start transforming your well-being today!
             </p>
-        </div>
+        </section>
     )
 }
