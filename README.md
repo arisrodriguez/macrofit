@@ -30,9 +30,7 @@ La aplicación ajusta las proporciones de proteínas, carbohidratos y grasas seg
 ## 📌 Estado del proyecto
 
 🚧 En desarrollo. Se están agregando más funcionalidades, como la personalización avanzada de los cálculos.
-
+-->
 ## 📫 Contacto
 
-Puedes encontrarme en [mi sitio web](https://a-r.io) o a través de mis redes sociales enlazadas allí.
- -->
-
+Puedes encontrarme en [mi sitio web](https://a-r-dev.vercel.app/) o a través de mis redes sociales enlazadas allí.
